@@ -24,7 +24,7 @@ This project presents an end-to-end credit risk modeling pipeline using the Germ
 * **Target Variable**: `Risk` — binary classification (`good` / `bad`)
 * **Key Features**:
 
-  * Categorical: `Sex`, `Job`, `Housing`, `Saving accounts`, `Purpose`
+  * Categorical:  `Job`, `Housing`, `Saving accounts`, `Purpose`
   * Numerical: `Age`, `Credit amount`, `Duration`
 
 ---
