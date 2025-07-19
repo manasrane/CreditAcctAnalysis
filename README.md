@@ -1,4 +1,6 @@
-# 🛡️ Credit Risk Classification - German Credit Dataset
+# 🛡️ Credit Risk Classification - German Credit Dataset 
+
+[Credit Risk Analysis](https://github.com/manasrane/CreditAcctAnalysis)
 
 This project presents an end-to-end credit risk modeling pipeline using the German Credit dataset. It aims to classify applicants into *good* or *bad* credit risk categories using various machine learning models, with a strong focus on recall to minimize false negatives in fraud/risk detection.
 
